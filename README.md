@@ -4,7 +4,7 @@
 
 (2) Bug Bounty Program [HackerOne](https://hackerone.com/)
 
-(3) Extracto de David Clarck [David Clack at CSAIL] (https://groups.csail.mit.edu/ana/People/Clark.html)
+(3) Extracto de David Clarck [David Clack at CSAIL](https://groups.csail.mit.edu/ana/People/Clark.html) 
 
 Summary thoughts--IV 
 The regrettable role of applications. 
